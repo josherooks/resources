@@ -1,0 +1,1 @@
+var greetings = "Hello, my name is Joshua!"
